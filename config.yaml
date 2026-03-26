@@ -20,7 +20,7 @@ params:
   canonicalBasePath: "https://docs.fluxnova.finos.org"
   version: "1.0"
   forum:
-    url: "https://github.com/finos/fluxnova-modeler/discussions"
+    url: "https://github.com/finos/fluxnova-bpm-platform/discussions"
     name: "Fluxnova Forum"
   section:
     id: "manual"
